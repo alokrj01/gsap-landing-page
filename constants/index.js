@@ -19,56 +19,68 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+    name: "Classic Mint Mojito",
+    country: "IN",
+    detail: "Fresh Mint & Key Lime",
+    price: "₹350",
+  },
+  {
+    name: "Kala Khatta Martini",
+    country: "IN",
+    detail: "Black Salt & Tangy Jamun",
+    price: "₹450",
+  },
+  {
+    name: "Mumbai Mule",
+    country: "IN",
+    detail: "Spiced Ginger & Vodka",
+    price: "₹550",
+  },
+  {
+    name: "Aam Panna Sparkler",
+    country: "IN",
+    detail: "Raw Mango & Cumin",
+    price: "₹399",
+  },
+  {
+    name: "Jaisalmer Gin and Tonic",
+    country: "IN",
+    detail: "Botanicals & Indian Tonic",
+    price: "₹650",
+  }
 ];
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+    name: "Indian Masala Mojito",
+    country: "IN",
+    detail: "Mint & Chaat Masala",
+    price: "₹180",
+  },
+  {
+    name: "Jamun Kala Khatta",
+    country: "IN",
+    detail: "Blackberry & Rock Salt",
+    price: "₹220",
+  },
+  {
+    name: "Spiced Aam Panna",
+    country: "IN",
+    detail: "Raw Mango & Cumin",
+    price: "₹150",
+  },
+  {
+    name: "Kokum Lemonade",
+    country: "IN",
+    detail: "Pink Berry & Fizz",
+    price: "₹190",
+  },
+  {
+    name: "Lychee Chili Punch",
+    country: "IN",
+    detail: "Sweet Lychee & Green Chili",
+    price: "₹250",
+  },
 ];
 
 const profileLists = [
