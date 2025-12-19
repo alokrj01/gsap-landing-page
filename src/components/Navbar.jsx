@@ -20,7 +20,6 @@ const Navbar = () => {
   })
 
 
-
   return (
    <nav>
      <div>
