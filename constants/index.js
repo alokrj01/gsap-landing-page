@@ -149,7 +149,7 @@ const socials = [
 const allCocktails = [
  {
 	id: 1,
-	name: "Classic Mojito",
+	name: "Classic Mint Mojito",
 	image: "/images/drink1.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
@@ -157,7 +157,7 @@ const allCocktails = [
  },
  {
 	id: 2,
-	name: "Raspberry Mojito",
+	name: "Mumbai Mule",
 	image: "/images/drink2.png",
 	title: "A Zesty Classic That Never Fails",
 	description:
@@ -165,7 +165,7 @@ const allCocktails = [
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "Lychee Chill Punch",
 	image: "/images/drink3.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
@@ -173,7 +173,7 @@ const allCocktails = [
  },
  {
 	id: 4,
-	name: "Curacao Mojito",
+	name: "Indian Masala Mojito",
 	image: "/images/drink4.png",
 	title: "Crafted With Care, Poured With Love",
 	description:
